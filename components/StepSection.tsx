@@ -40,6 +40,7 @@ const StepSection = () => {
 							</span>
 							<h5>Make Payment</h5>
 							<p>Call in for the account details to pay so that we may inform you if the state slot is still available.
+								Make the payment of ₦20, 000 and notify us through WhatsApp if we don't get back 5 minutes after your payment.
 								The first person to make payment for the state will be selected. Others may join our waiting list for LGA Training Coordinators.</p>
 						</li>
 						<li className="col-md-3 col-sm-3">
