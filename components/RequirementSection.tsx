@@ -14,7 +14,7 @@ const RequirementSection = () => {
 								<li><i className="fa fa-check green"></i> Own a Laptop</li>
 								<li><i className="fa fa-check green"></i> Internet Access</li>
 								<li><i className="fa fa-check green"></i> Speak and Write English Fluently</li>
-								<li><i className="fa fa-check green"></i> N20,000 Registration Fee</li>
+								<li><i className="fa fa-check green"></i> ₦20,000 Registration Fee</li>
 							</ul>
 						</div>
 						<div className="paper-wrapper-left"></div>
