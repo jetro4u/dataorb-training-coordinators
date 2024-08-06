@@ -1,0 +1,7 @@
+.img-wrapper .img-caption{
+    display:none;
+}
+
+.img-wrapper.on .img-caption{
+    display:block;
+}
